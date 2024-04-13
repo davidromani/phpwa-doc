@@ -66,7 +66,7 @@ Example:
 platform: "android"
 ```
 
-Possible values are lisrted below. This list is not exhastive.
+Possible values are listed below. This list is not exhaustive.
 
 * Device platform identifiers:
   * `"android"`
